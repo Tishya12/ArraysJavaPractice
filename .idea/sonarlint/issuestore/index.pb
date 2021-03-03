@@ -20,3 +20,11 @@ Q
 !src/arrays/TripletsOfSumZero.java,2/c/2c33018165e8a4a0c46ded475e5bfafa63c45607
 Q
 !src/ArrayList/MergeIntervals.java,e/9/e999bef388cbfe23d3d1bc39606a641e0d556d79
+S
+#src/list/ArraylistorLinkedlist.java,1/1/110dcd011e6fc74fd1485309a2dd3e1a4bda51f2
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+R
+"src/LinkedList/MainLinkedList.java,a/8/a844a67a136579e2857289b2372d07edfccd19c7
+P
+ src/LinkedList/MyLinkedList.java,5/e/5e7e694980a21c251b5ba4c28633d876579c28d7

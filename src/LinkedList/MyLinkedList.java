@@ -1,36 +1,64 @@
 package LinkedList;
 
 
+import java.util.LinkedList;
+
 //to make it generic replace int with E(element)
-public class MyLinkedList {     //<E>
-    Node head;                  //Node<E>
-    void add(int data){
-        Node toAdd=new Node(data);
+public class MyLinkedList<E> {     //<E>
+  Node<E> head;                  //Node<E>
+    public void add(E data){
+        Node<E> toAdd=new Node<E>(data);
         if(isEmpty()){
             head=toAdd;
             return;
         }
-        Node temp=head;
+        Node<E> temp=head;
         while(temp.next!=null){
            temp=temp.next;
         }
         temp.next=toAdd;
     }
-    boolean isEmpty(){
+    public boolean isEmpty(){
         return head==null;
     }
     void print(){
-        Node temp=head;
+        Node<E> temp=head;
         while(temp!=null){
             System.out.println(temp.data+" ");
             temp=temp.next;
         }
     }
-    static class Node{
-        int data;
-        Node next;
 
-        public Node(int data){
+    public E removeLast(){
+        Node<E> temp=head;
+        //if list has only one element
+        if(temp.next==null) {
+            Node<E> toRemove=head;
+            head=null;
+            return toRemove.data;
+        }
+        //check for 2nd last element
+        while(temp.next.next!=null){
+            temp=temp.next;
+        }
+        Node<E> toRemove=temp.next;
+        temp.next=null;
+        return toRemove.data;
+    }
+
+    public E getLast(){
+        Node<E> temp=head;
+        while(temp.next!=null){
+            temp=temp.next;
+        }
+        return temp.data;
+    }
+
+    public static class Node<E>{
+        public E data;
+        public Node next;
+
+        public Node(E data){
             this.data=data;
             this.next=null;
         }
