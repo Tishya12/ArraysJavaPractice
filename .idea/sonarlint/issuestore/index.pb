@@ -28,3 +28,11 @@ R
 "src/LinkedList/MainLinkedList.java,a/8/a844a67a136579e2857289b2372d07edfccd19c7
 P
  src/LinkedList/MyLinkedList.java,5/e/5e7e694980a21c251b5ba4c28633d876579c28d7
+H
+src/Stack/MainStack.java,c/1/c1492d61b564030916f96b61caf4937991ac590e
+F
+src/Queue/MyQueue.java,f/d/fdcd07106989d56b199ef19c3126dfb57f3af818
+F
+src/Stack/MyStack.java,4/e/4ef104094103d3320fda891bdc1d45ad3691f091
+H
+src/Queue/MainQueue.java,6/3/63670d652485f6cab1f1eb0a600e80d05cd864f9
