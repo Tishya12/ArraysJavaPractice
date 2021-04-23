@@ -1,0 +1,20 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(å¨ˆŒ8¸š¼‡€/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿ‰Å÷8ùô»‡€/
+V
+java:S2274
+":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ùô»‡€/
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8¸š¼‡€/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ï ’8ùô»‡€/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¨ˆŒ8¸š¼‡€/
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8şÏÄ‡€/
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(ºˆ¸úÿÿÿÿ8ùô»‡€/
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ‰Å÷8ùô»‡€/
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(å¨ˆŒ8¸š¼‡€/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‰Å÷8ùô»‡€/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÖ¹Ã8¸š¼‡€/

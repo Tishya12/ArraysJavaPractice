@@ -1,0 +1,8 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ü„ê!8”ä¾§…/
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ8”ä¾§…/
+C
+java:S1481"&Remove this unused "s" local variable.(ÌÏ‹Ý8”ä¾§…/
+R
+java:S1854"5Remove this useless assignment to local variable "s".(ÌÏ‹Ý8”ä¾§…/
