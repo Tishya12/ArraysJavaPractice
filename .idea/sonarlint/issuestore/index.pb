@@ -66,3 +66,5 @@ O
 src/string/GoodOrBadString.java,f/c/fc2217eadb7279632d3952fdea259c617fad3bc2
 U
 %src/string/FirstNonRepeatingChar.java,f/d/fdbeed42187964a7a9d854f438c0c95fa1d494ba
+L
+src/arrays/BinarySearch.java,1/2/12ff585d04d1ec19c98d22caf355950ca4de264b

@@ -1,13 +1,13 @@
 
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¹û
 H
 java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ø”üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ ›
 Q
 java:S1854"6Remove this useless assignment to local variable "ar".(ñÀ Éúÿÿÿÿ
 S
 java:S1197"8Move the array designator from the variable to the type.(ñÀ Éúÿÿÿÿ
 V	java:S125"<This block of commented-out lines of code should be removed.(åõ‘«øÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¹û
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ø”üÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(æ ›
 B
 java:S1481"'Remove this unused "ar" local variable.(ñÀ Éúÿÿÿÿ
